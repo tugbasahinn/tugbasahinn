@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there, I'm Tuğba  :raising_hand:	 
+---
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" align="right" width="350" height="300" >
 
-<!--
-**tugbasahinn/tugbasahinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 I'm a Computer Engineering student at Erciyes University. (3/4)
+* :memo: I'm currently learning Programming Languages.
+* :cloud: I'm following new tecnologies.
+<br />
 
-Here are some ideas to get you started:
+### Reach out to me
+ [<img width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedIn]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+ <details>
+ <summary> :zap: Github Stats</summary> 
+ 
+![Tugba's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugbasahinn&show_icons=true&theme=tokyonight)
+ </details>   
+ <br />
+
+ ![](https://komarev.com/ghpvc/?username=tugbasahinn) 
+
+[linkedIn]: https://www.linkedin.com/in/tugbasahin/
