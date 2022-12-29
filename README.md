@@ -2,7 +2,7 @@
 ---
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" align="right" width="350" height="300" >
 
-* 💻 I'm a Computer Engineering student at Erciyes University. (3/4)
+* 💻 I'm a Computer Engineering student at Erciyes University. (4/4)
 * :memo: I'm currently learning Programming Languages.
 * :cloud: I'm following new tecnologies.
 <br />
