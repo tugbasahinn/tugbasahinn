@@ -20,4 +20,4 @@
 
  ![](https://komarev.com/ghpvc/?username=tugbasahinn) 
 
-[linkedIn]: https://www.linkedin.com/in/tugbasahin/
+[linkedIn]: https://www.linkedin.com/in/tugbasahin-/
